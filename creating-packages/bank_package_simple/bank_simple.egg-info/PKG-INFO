@@ -1,0 +1,33 @@
+Metadata-Version: 2.1
+Name: bank_simple
+Version: 0.0.1
+Summary: An OOP exercise in package
+Home-page: https://github.com/desenvdossa/python-projects/tree/main/creating-packages
+Author: Desenvdossa
+Author-email: desenvdossa@gmail.com
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+
+## bank_package_simple
+
+Description.
+    This package was an OOP excercise converted in package
+
+## Instalation
+
+Use package manager [pip] (https://pip.pypa.io/en/stable) to install bank_package
+
+## Usage
+
+```python
+from bank_package_simple import create_functions
+from bank_package_simple import operation_functions
+create_functions.cadastrar_usuario(usuario)
+```
+
+## Author
+Desenvdossa
+
+## License 
+MIT
+
